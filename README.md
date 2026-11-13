@@ -25,3 +25,15 @@ The official UN source provides population estimates and projections for demogra
 
 ### 3. Geographic Analysis
 ![Geographic Analysis](Geographic_Analysis.png)
+
+## 🔍 Key Insights
+
+- **Population Leaders:** India and China have the largest populations globally.
+- **Population Distribution:** A small group of countries accounts for a substantial share of the world's population.
+- **Fertility vs. Median Age:** The dashboard shows a negative relationship between fertility rates and median age.
+- **Population Density:** Population density varies significantly across countries.
+- **Land Area Comparison:** Countries with larger land areas do not necessarily have higher population density.
+
+## 💡 Conclusion
+
+This dashboard provides an interactive overview of global population patterns, demographic indicators, and geographical differences using Power BI.
