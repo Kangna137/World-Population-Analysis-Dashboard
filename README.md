@@ -46,3 +46,16 @@ This dashboard provides an interactive overview of global population patterns, d
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 - Microsoft Excel
+
+## 🚀 How to Run This Project
+
+1. Download `World Population Dashboard.pbix` from this repository.
+2. Install Microsoft Power BI Desktop.
+3. Open the downloaded `.pbix` file in Power BI Desktop.
+4. Explore the three dashboard pages:
+   - World Population Dashboard
+   - Demographic Analysis
+   - Geographic Analysis
+5. Interact with slicers, charts, and filters to explore population trends.
+
+**Note:** The dashboard is designed for interactive exploration in Power BI Desktop.
