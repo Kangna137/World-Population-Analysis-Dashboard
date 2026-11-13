@@ -37,3 +37,12 @@ The official UN source provides population estimates and projections for demogra
 ## 💡 Conclusion
 
 This dashboard provides an interactive overview of global population patterns, demographic indicators, and geographical differences using Power BI.
+
+## 🛠️ Tools & Technologies
+
+- Power BI Desktop
+- Power Query – Data Cleaning and Transformation
+- DAX – Measures and Calculations
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Microsoft Excel
